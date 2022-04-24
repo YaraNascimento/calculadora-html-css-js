@@ -5,8 +5,6 @@
 -Tudo está funcionando
 
 
--Utilizei HTML, CSS e JavaScript
-
 
 -Calculadora seguida dos passos do professor Felipe Rocha
 
